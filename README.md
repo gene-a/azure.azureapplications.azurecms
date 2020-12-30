@@ -5,13 +5,6 @@ This project is a Python web application built using Flask. The user can log in 
 ## App URL:
 - https://azurecmsapp.azurewebsites.net
 
-## Log In Credentials for FlaskWebProject
-
-- Username: admin
-- Password: pass
-
-Or, once the MS account.
-
 ## Dependencies
 
 1. A free Azure account
