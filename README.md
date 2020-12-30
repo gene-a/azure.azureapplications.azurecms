@@ -7,5 +7,5 @@ This project is a Python web application built using Flask. The user can log in 
 
 ## Dependencies
 
-Python 3.7 or later
-Python dependencies in requirements.txt
+1. Python 3.7 or later
+2. Python dependencies in requirements.txt
