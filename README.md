@@ -7,9 +7,5 @@ This project is a Python web application built using Flask. The user can log in 
 
 ## Dependencies
 
-1. A free Azure account
-2. A GitHub account
-3. Python 3.7 or later
-4. Visual Studio 2019 Community Edition (Free)
-5. The latest Azure CLI
-6. Python dependencies in requirements.txt
+Python 3.7 or later
+Python dependencies in requirements.txt
